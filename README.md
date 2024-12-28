@@ -2,6 +2,8 @@
 
 Tasty Treks is a comprehensive online food delivery system designed to revolutionize how users order food. With its user-friendly interface and robust features, it bridges the gap between restaurants and customers, making food delivery seamless and accessible.
 
+![](https://i0.wp.com/themes.svn.wordpress.org/online-food-delivery/0.5.4/screenshot.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
