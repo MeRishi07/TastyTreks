@@ -1,0 +1,10 @@
+<div class="payment-container">
+  <h3>Wallet Balance: </h3>
+  <h3>Rs. {{ walletBalance }} </h3><br/>
+  <label class="payment-label" for="paymentAmount">Payment Amount:</label>
+  <h4>Grand Total : {{paymentAmount}}</h4>
+  <button class="payment-button" (click)="makePayment()">Make Payment</button>
+  <div>
+    <h4>{{paymentStatus}}</h4>
+  </div>
+</div>
