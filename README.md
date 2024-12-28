@@ -10,6 +10,7 @@ Tasty Treks is a comprehensive online food delivery system designed to revolutio
 - [Architecture Overview](#architecture-overview)
 - [Setup Instructions](#setup-instructions)
 - [Advantages](#advantages)
+- [Screenshots](#screenshots)
 - [Conclusion](#conclusion)
 
 ## Introduction
@@ -97,6 +98,21 @@ Tasty Treks is a web-based application tailored for food delivery. It enables us
 - **Browser Compatibility**: Works seamlessly across major web browsers.
 - **Admin Tools**: Provides comprehensive tools for record and user management.
 - **Efficiency**: Automates reporting and data storage for faster processes.
+
+## Screenshots
+![](https://github.com/MeRishi07/TastyTreks/blob/9c14938e95474c6779d6cdc0eb55d53074f3aa9e/Screenshots/Screenshot%202023-09-26%20001113.png)
+![](https://github.com/MeRishi07/TastyTreks/blob/9c14938e95474c6779d6cdc0eb55d53074f3aa9e/Screenshots/Screenshot%202023-09-26%20001128.png)
+![](https://github.com/MeRishi07/TastyTreks/blob/9c14938e95474c6779d6cdc0eb55d53074f3aa9e/Screenshots/Screenshot%202023-09-26%20001148.png)
+![](https://github.com/MeRishi07/TastyTreks/blob/9c14938e95474c6779d6cdc0eb55d53074f3aa9e/Screenshots/Screenshot%202023-09-26%20001204.png)
+![](https://github.com/MeRishi07/TastyTreks/blob/9c14938e95474c6779d6cdc0eb55d53074f3aa9e/Screenshots/Screenshot%202023-09-26%20001236.png)
+![](https://github.com/MeRishi07/TastyTreks/blob/9c14938e95474c6779d6cdc0eb55d53074f3aa9e/Screenshots/Screenshot%202023-09-26%20001546.png)
+![](https://github.com/MeRishi07/TastyTreks/blob/9c14938e95474c6779d6cdc0eb55d53074f3aa9e/Screenshots/Screenshot%202023-09-26%20001611.png)
+![](https://github.com/MeRishi07/TastyTreks/blob/9c14938e95474c6779d6cdc0eb55d53074f3aa9e/Screenshots/Screenshot%202023-09-26%20003423.png)
+![](https://github.com/MeRishi07/TastyTreks/blob/9c14938e95474c6779d6cdc0eb55d53074f3aa9e/Screenshots/Screenshot%202023-09-26%20003458.png)
+![](https://github.com/MeRishi07/TastyTreks/blob/9c14938e95474c6779d6cdc0eb55d53074f3aa9e/Screenshots/Screenshot%202023-09-26%20003511.png)
+![](https://github.com/MeRishi07/TastyTreks/blob/9c14938e95474c6779d6cdc0eb55d53074f3aa9e/Screenshots/Screenshot%202023-09-26%20003604.png)
+![](https://github.com/MeRishi07/TastyTreks/blob/9c14938e95474c6779d6cdc0eb55d53074f3aa9e/Screenshots/Screenshot%202023-09-26%20003655.png)
+![](https://github.com/MeRishi07/TastyTreks/blob/9c14938e95474c6779d6cdc0eb55d53074f3aa9e/Screenshots/Screenshot%202023-09-26%20004648.png)
 
 ## Conclusion
 Tasty Treks redefines food delivery with its efficient and secure online system. By combining a robust back-end with a user-focused front-end, it offers a scalable solution for both restaurants and customers, ensuring a superior experience for all stakeholders.
