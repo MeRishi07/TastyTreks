@@ -68,7 +68,7 @@ Tasty Treks is a web-based application tailored for food delivery. It enables us
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/tasty-treks.git
+   git clone https://github.com/MeRishi07/TastyTreks.git
    cd tasty-treks
    ```
 
